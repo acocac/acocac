@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/acocac?style=social)](https://github.com/acocac) [![Twitter Follow](https://img.shields.io/twitter/follow/alejo_coca?style=social)](https://twitter.com/alejo_coca) [![](https://img.shields.io/badge/visit-website-orange)](https://acocac.github.io/en/)
 
-- :test_tube:	I work as a Postdoctoral Research Associate at the Alan Turing Institute, UK's national institute for data science and artificial intelligence. My [project](https://www.turing.ac.uk/research/research-projects/environmental-monitoring-blending-satellite-and-surface-data) focuses on the development of software for the intelligent fusion of environmental sensor data. 
+- :test_tube:	I work as a Postdoctoral Research Associate at the Alan Turing Institute, UK's national institute for data science and artificial intelligence. My [project](https://www.turing.ac.uk/research/research-projects/environmental-monitoring-blending-satellite-and-surface-data) focuses on the development of software for the intelligent fusion of environmental and climate sensor data. 
 
 - :earth_americas: I am the lead of the [Environmental Data Science book](https://github.com/alan-turing-institute/environmental-ds-book), a community-driven online resource to showcase and support the publication of data, research and open-source tools for collaborative, reproducible and transparent Environmental Science.
 
