@@ -10,6 +10,8 @@
 
 - :mortar_board: Mentee and mentor in Open Science projects through the [Open Life Science programme](https://openlifesci.org).
 
+- 👀: Topic editor in [the Journal of Open Source Education (JOSE)](https://jose.theoj.org/about).
+
 ### My GitHub Stats :octocat: 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acocac&layout=compact&hide=jupyter%20notebook,javascript,html,css,scss&theme=navyblue)](https://github.com/anuraghazra/github-readme-stats) 
