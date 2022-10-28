@@ -10,7 +10,7 @@
 
 - :mortar_board: Mentee and mentor in Open Science projects through the [Open Life Science programme](https://openlifesci.org).
 
-- 👀: Topic editor at [the Journal of Open Source Education (JOSE)](https://jose.theoj.org/about).
+- 👀 Topic editor at [the Journal of Open Source Education (JOSE)](https://jose.theoj.org/about).
 
 ### My GitHub Stats :octocat: 
 
