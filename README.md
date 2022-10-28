@@ -4,7 +4,7 @@
 
 - :test_tube:	Postdoctoral Research Associate at the Alan Turing Institute, UK's national institute for data science and artificial intelligence. My [project](https://www.turing.ac.uk/research/research-projects/environmental-monitoring-blending-satellite-and-surface-data) focuses on the development of software for the intelligent fusion of environmental and climate data. 
 
-- :earth_americas: Lead of the [Environmental Data Science book](https://github.com/alan-turing-institute/environmental-ds-book), A living, open and community-driven resource to showcase and support computational notebooks for collaborative, reproducible and transparent Environmental Science.
+- :earth_americas: Lead of the [Environmental Data Science book](https://github.com/alan-turing-institute/environmental-ds-book), a living, open and community-driven resource to showcase and support computational notebooks for collaborative, reproducible and transparent Environmental Science.
 
 - :busts_in_silhouette: Core member of [The Turing Way](https://github.com/alan-turing-institute/the-turing-way) and [scivision](https://github.com/alan-turing-institute/scivision), and also an active member of the [Pangeo Europe community meetings](https://pangeo.io/meeting-notes.html).
 
