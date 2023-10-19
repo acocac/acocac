@@ -1,4 +1,4 @@
-### Hola, I'm Alejandro (he/him) ⭐
+### Hola, I'm Alejandro (he/him) 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/acocac?style=social)](https://github.com/acocac) [![Twitter Follow](https://img.shields.io/twitter/follow/alejo_coca?style=social)](https://twitter.com/alejo_coca) [![](https://img.shields.io/badge/visit-website-orange)](https://acocac.github.io/en/)
 
